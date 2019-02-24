@@ -1,5 +1,5 @@
 # Hangman
-Web Application of Hangman
+Web Application of Hangman 
 
 Check out where I made this web application: https://codepen.io/gnourt/pen/yGPaRx
 
